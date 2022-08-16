@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mokus
+- 👀 I’m interested in coding, programming, gaming, and JIM!!!
+- 🌱 I’m currently learning Python language 🐍
+- 💞️ I’m looking to collaborate with Mechanicode (my brother's company)
+- 📫 How to reach me? By g-mail (mateuszmokus@gmail.com)
